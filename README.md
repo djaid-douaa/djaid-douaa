@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=170&section=header&text=Douaa%20Djaid&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=AI%20Engineer%20%C2%B7%20Generative%20%26%20Agentic%20AI%20%C2%B7%20RAG%20Systems&descAlignY=58&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=170&section=header&text=Douaa%20Djaid&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=AI%20Engineer%20%C2%B7%20Generative%20and%20Agentic%20AI%20%C2%B7%20RAG%20Systems&descAlignY=58&descSize=16" width="100%" />
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1400&color=2EC4B6&vCenter=true&width=600&lines=AI+Engineer;Generative+AI+%26+Agentic+AI+Developer;RAG+Systems+Builder;LLM+apps%2C+from+prototype+to+production" alt="AI Engineer · Generative & Agentic AI Developer · RAG Systems" />
