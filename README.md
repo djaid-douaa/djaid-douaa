@@ -6,7 +6,6 @@
 
 <a href="https://www.linkedin.com/in/douaa-djaid-37726723a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:douaa.djaid@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
-<a href="https://orcid.org/0009-0005-5762-7781"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/Algeria-2C5364?style=flat&logo=googlemaps&logoColor=white" />
 <img src="https://img.shields.io/badge/Open%20to-remote%20work-2EC4B6?style=flat" />
 
