@@ -84,9 +84,7 @@ Forest cover mapping from ASAL geospatial data.
 </tr>
 </table>
 
-## 📈 Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=djaid-douaa&theme=react-dark&bg_color=0F2027&color=2EC4B6&line=2EC4B6&point=ffffff&hide_border=true&area=true" width="100%" />
+## 📈 Languages
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djaid-douaa&layout=donut&theme=transparent&hide_border=true&title_color=2EC4B6&text_color=c9d1d9" height="170" />
 
